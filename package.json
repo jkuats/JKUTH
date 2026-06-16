@@ -1,35 +1,12 @@
-<<<<<<< HEAD
 {
-  "name": "jkuh-hostel-system",
+  "name": "jkuth-hostel-system",
   "version": "1.0.0",
-  "description": "JKUH Hostel Payment System",
+  "description": "JKUTH Hostel Portal",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "dotenv": "^16.6.1",
-    "express": "^4.22.2"
+    "express": "^4.21.2"
   }
 }
-=======
-{
-  "name": "jkuh-hostel-system",
-  "version": "1.0.0",
-  "description": "JKUH Hostel Payment System",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "dotenv": "^16.6.1",
-    "express": "^4.22.2"
-  }
-}
->>>>>>> 3a742f33e56c2ae13a7a5c7bd7d6a2d1863a108f
